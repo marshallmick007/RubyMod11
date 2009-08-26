@@ -32,7 +32,6 @@ m = Mod11.new
 w = m.weight(10)
 
 w.each do |x| puts x end
-  
 
 #m.weight(10) { |x| puts x }
 
